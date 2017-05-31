@@ -1,0 +1,23 @@
+{
+  "name": "hubot-tofu-changer",
+  "version": "0.1.0",
+  "description": "Correct Slack's Tofu.",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/miyay/hubot-tofu-changer.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "slack"
+  ],
+  "author": {
+    "name": "miyay"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miyay/hubot-tofu-changer/issues"
+  },
+  "homepage": "https://github.com/miyay/hubot-tofu-changer"
+}
