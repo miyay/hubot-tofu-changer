@@ -13,7 +13,7 @@ Slack向けに動作します。
 
 ```
 "dependencies": {
-  "hubot-tofu-changer": "git@github.com:miyay/hubot-tofu-changer.git"
+  "hubot-tofu-changer": "git://github.com/miyay/hubot-tofu-changer.git"
 }
 ```
 
@@ -23,4 +23,10 @@ Slack向けに動作します。
 [
   "hubot-tofu-changer"
 ]
+```
+
+### npm install
+
+```
+$ npm install
 ```
